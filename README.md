@@ -1,2 +1,2 @@
-# advanced-git-workshop
-Repo for learning advanced git commands.
+# advanced-git-workshop v0.1.0
+# 
